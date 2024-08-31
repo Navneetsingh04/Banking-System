@@ -85,11 +85,13 @@ Contributions are always welcome!
 `
 If you'd like to contribute to this project, please fork the repository and use a feature branch. Pull requests are welcome.
 `
+
 Please adhere to this project's `code of conduct`.
 
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 [MIT](https://github.com/Navneetsingh04/Banking-System/blob/main/LICENSE)
 
