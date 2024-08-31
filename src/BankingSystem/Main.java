@@ -68,7 +68,6 @@ public class Main {
                                 System.out.println("3. Transfer Money");
                                 System.out.println("4. check Balance");
                                 System.out.println("5. log out");
-                                System.out.println("6. Loan");
                                 System.out.print("Enter your choice: ");
                                 choice2 = scanner.nextInt();
                                 switch (choice2){
