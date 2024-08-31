@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class Main {
     private static final String url = "jdbc:mysql://localhost:3306/banking_system";
     private static final String username = "root";
-    private static final String password = "N@Vneet04";
+    private static final String password = "admin123";
 
     public static void main(String[] args) throws ClassNotFoundException{
         try{
